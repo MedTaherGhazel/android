@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                     btn.setBackgroundColor(Color.RED)
                     return true
                 }
-                R.id.pressme2->{
+                R.id.pressme2-> {
                     btn.setBackgroundColor(Color.BLUE)
                     return true
                 }
