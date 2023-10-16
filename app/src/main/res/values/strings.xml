@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tp2</string>
+    <string name="menu_exit" >Exit</string>
+    <string name="menu_search" >Search</string>
+</resources>
